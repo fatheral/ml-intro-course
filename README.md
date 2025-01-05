@@ -15,5 +15,5 @@ Course taught at:
 | 06 | [k-NN for Regression](/lectures/lecture_ml_06.pdf)    | Non-parametric Regression: k-NN Method and its variants. Nadaraya-Watson kernel regression. Bias-Variance trade-off for k-NN Regression. Mean (Absolute) Test Error |
 | 07 | [Linear Regression](/lectures/lecture_ml_07.pdf)    | Linear Regression and its variants (Ridge, LASSO, Elastic Net). Polynomial Regression. Least Squares method. ML and MAP principles. Regression Quality Metrics |
 | 08 | [Classification Metrics](/lectures/lecture_ml_08.pdf)    | Binary Classification definitions. Accuracy. Confusion Matrix: TP, FP, TN, FN (and TPR, FPR, TNR, FNR). ROC / AUROC. Precision and Recall. PRC / AUPRC. Multi-class Classification variants and Class Imbalance |
-| 09 | [Exam](/lectures/lecture_ml_09.pdf)    | AI/ML/DL "Buzzwords": broad concepts, research directions, state-of-the-art approaches |
-| 10 | [ML Buzzwords](/lectures/lecture_ml_10.pdf)    | Final Exam: information and logistics. ML Pipeline Design topics. ML Concepts topics. ML Calculations |
+| 09 | [ML Buzzwords](/lectures/lecture_ml_09.pdf)    | AI/ML/DL "Buzzwords": broad concepts, research directions, state-of-the-art approaches |
+| 10 | [Exam](/lectures/lecture_ml_10.pdf)    | Final Exam: information and logistics. ML Pipeline Design topics. ML Concepts topics. ML Calculations |
