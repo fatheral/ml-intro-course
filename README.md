@@ -1,6 +1,6 @@
 # ML Introductory Course
 Course taught at:
-* [Sofia University](https://www.sofia.edu): Palo Alto facility, 2023-2025.
+* [Sofia University](https://www.sofia.edu): Palo Alto facility, 2023-2026.
 
 ## News
 * (2024-01-04) Initial version
@@ -8,7 +8,8 @@ Course taught at:
 ## Course program
 | N  | Lecture       | Desctription                                 | 
 | -- | ------------- | -------------                                | 
-| 01 | [Introduction](/lectures/lecture_ml_01.pdf)    | Introduction. Course logistics and syllabus. Historic reference. ML Paradigms |
+| 00 | [Introduction](/lectures/lecture_ml_intro.pdf)    | Introduction. Course logistics |
+| 01 | [Introduction](/lectures/lecture_ml_01.pdf)    | Course syllabus. Historic reference. ML Paradigms |
 | 02 | [Supervised Learning](/lectures/lecture_ml_02.pdf)    | Supervised Learning Setting. Objects' features. Model outputs. Loss functions. Cross-validation. Hyperparameters tuning |
 | 03 | [ML Model Fitting Problems](/lectures/lecture_ml_03.pdf)    | Empirical and Structural Risk. Risk Minimization. Model Selection. Underfitting and overfitting. Error Decomposition: Bias-Variance Tradeoff and Double Descent |
 | 04 | [k-NN for Classification](/lectures/lecture_ml_04.pdf)    | Non-parametric Classification: k-NN Method and its variants (Euclidean and Manhattan Distance, 1-NN and k-NN, Weighted K-NN, Selection of Templates). Common Metrics. Classification Mean Error |
